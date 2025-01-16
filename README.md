@@ -3,7 +3,7 @@
 This project aims at forecasting electricty consumption for a 2 month-period. 106 weeks of data were used to achieve that. 
 
 ## Data source
-The data used for this project was retrieved from kaggle at the following link : [Visit Google](https://www.kaggle.com/datasets/jaganadhg/house-hold-energy-data "access the dataset")
+The data used for this project was retrieved from kaggle at the following link : [Dataset](https://www.kaggle.com/datasets/jaganadhg/house-hold-energy-data "access the dataset")
 
 ## Tools
 Jupyter notebook IDE for data analysis
